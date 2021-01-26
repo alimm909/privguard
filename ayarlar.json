@@ -1,10 +1,10 @@
 {
-    "token": "TOKEN",
-    "prefix": "PREFİX",
-    "sahip": "SAHİP İD",
-    "güvenli": ["GÜVENLİ KİŞİLERİN İDSİ"],
-    "sunucuID": "SUNUCU İD",
-    "guardlog": "KORUMA LOG İD",
+    "token": "ODAzNzI3MzQ0NzI3NzUyNzE1.YBB_aw.Sdo-9vcwG-q4V9f_H_IJA53yv20",
+    "prefix": "b?",
+    "sahip": "344081424984571904",
+    "güvenli": ["344081424984571904","317672117686763520","355005749556019224","790676129332592702"],
+    "sunucuID": "803714683701690459",
+    "guardlog": "803728838705283102",
     "perm": ["ADMINISTRATOR", "MANAGE_CHANNELS", "MANAGE_GUILD", "KICK_MEMBERS", "BAN_MEMBERS", "MANAGE_ROLES", "MANAGE_WEBHOOKS", "MANAGE_NICKNAMES"],
     "botrole": ["BOT ROLLERİNİN İD","BOT ROLLERİNİN İD","BOT ROLLERİNİN İD"]
 }
